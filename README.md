@@ -1,7 +1,7 @@
 # Jelena Lukačević
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelavk&show_icons=true&theme=cobalt)
 
-<p> For as long as I can remember I have been amazed by computers and what power lays beneath the hardware.
+<p> For as long as I can remember I have been amazed by computers and what power lies beneath the hardware.
 From jumping around dark web and reading forums, to actually learning computer science, the journey has 
 stayed rewarding and motivating. 
  
