@@ -33,4 +33,4 @@ as that, I'm acquiring a B.Sc in Mechanical Engineering and plan on getting my M
 
 
 ## Socials
-[LinkedIn](www.linkedin.com/in/jelena-lukačević-909144243)
+[LinkedIn](https://www.linkedin.com/in/jelena-luka%C4%8Devi%C4%87-909144243/)
