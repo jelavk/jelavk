@@ -18,12 +18,12 @@ Feel free to suggest talks, books or podcasts.</p>
 ## Skills & interests
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Algorithms](https://img.shields.io/badge/Algorithms-003545?style=for-the-badge&&logoColor=white)
 ![Data structures](https://img.shields.io/badge/Data_Structures-%2300C4CC.svg?style=for-the-badge&logoColor=white)
 ![Databases](https://img.shields.io/badge/Databases-F37440?style=for-the-badge&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-%2300f.svg?style=for-the-badge&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-470137?style=for-the-badge&logoColor=#FF61F6)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23D4D4D4.svg?style=for-the-badge&logoColor=black)
 
 
